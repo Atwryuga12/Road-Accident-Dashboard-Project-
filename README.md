@@ -1,14 +1,37 @@
-**Road Accident Dynamic Dashboard Project**
-This project showcases a dynamic dashboard built using Microsoft Excel to analyze fictional data on road accidents in the UK for the years 2021 and 2022. The dashboard is intended for educational purposes, focusing on data visualization techniques and insights into accident patterns.
+Project Dashboard Link - https://1drv.ms/x/c/09b45a51e49ea094/EYeQVels2DNFg_VXP--yyOcBeRNyWjHebvRElYwQZOyUzw?e=rTYYbV
 
-**Key Features:**
-Total Casualties: A comprehensive overview of casualties, including the total count and a detailed breakdown by accident severity.
-Accident Severity Analysis: Percentage distribution of casualties categorized by accident severity (e.g., slight, serious, fatal).
-Vehicle Type Analysis: Identification of the vehicle types associated with the highest number of casualties, highlighting the most at-risk categories.
-Casualties by Vehicle Type: A detailed comparison of casualties across different vehicle types.
-Monthly Trends: Year-over-year comparison of casualty trends, highlighting seasonal variations and patterns for both 2021 and 2022.
-Casualties by Road Type: Insights into the number of casualties based on different road types (e.g., highways, residential roads).
-Road Surface Condition: Examination of how road surface conditions (e.g., wet, dry, icy) impact the casualty rates.
-Casualties by Area/Location & Day/Night Comparison: Analysis of how location (urban vs. rural) and time of day (day vs. night) affect casualty numbers.
-Purpose:
-The project aims to demonstrate proficiency in data analysis and dashboard creation using Excel, helping to visualize and interpret accident data effectively. By exploring various key performance indicators (KPIs) and trends, the dashboard offers a clear, actionable view of road accident data for decision-makers or educational use.
+**Road Accident Dynamic Dashboard Project**
+Situation:
+Analyzed road accident data from the UK (2021–2022) to uncover key factors contributing to accidents and develop insights to minimize casualties. The project aimed to identify trends and create strategies to reduce accidents.
+
+Task:
+The goal was to generate actionable insights that could inform safety policies and reduce road accidents by understanding casualty patterns and contributing factors.
+
+Action:
+Data Cleaning and Preparation: Conducted complete data preparation and cleaning using MS Excel.
+Analysis: Performed advanced data analysis on accident severity, vehicle type, road conditions, and accident time (day/night).
+Visualization: Created visualizations to compare monthly trends, vehicle type casualties, road types, and day/night accidents.
+
+Results:
+Key Metrics: Total casualties, accident severity breakdown, casualties by vehicle type, and casualty distribution across urban vs. rural areas.
+
+Insights:
+Casualties: Fatality rate was 2%, with 84% of accidents resulting in slight injuries.
+Vehicle Type: 80% of casualties involved cars.
+Location: 61% of accidents occurred in urban areas, with 39% in rural areas.
+Timing: 73% of accidents occurred during daylight, while 27% happened at night.
+Road Type: 74% of accidents occurred on single carriageway roads.
+Road Surface: 65% of accidents took place on dry road surfaces.
+Identified a reduction in casualties from the previous year.
+
+Impact:
+Provided data-driven insights to guide policy decisions aimed at reducing accidents, with a focus on vehicle types, road conditions, and time-of-day factors.
+
+Skills Utilized:
+Data Preparation and Cleaning (Excel)
+Advanced Data Analysis and Insights Generation
+Data Visualization and Dashboard Development
+Trend Analysis
+
+Outcome:
+The project demonstrated the ability to identify key factors affecting road safety and provided insights that could inform policies and strategies for reducing accidents.
