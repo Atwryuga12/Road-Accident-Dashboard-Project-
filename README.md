@@ -1,6 +1,7 @@
 Project Dashboard Link - https://1drv.ms/x/c/09b45a51e49ea094/EYeQVels2DNFg_VXP--yyOcBeRNyWjHebvRElYwQZOyUzw?e=rTYYbV
 
 **Road Accident Dynamic Dashboard Project**
+
 Situation:
 Analyzed road accident data from the UK (2021–2022) to uncover key factors contributing to accidents and develop insights to minimize casualties. The project aimed to identify trends and create strategies to reduce accidents.
 
